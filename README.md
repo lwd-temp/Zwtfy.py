@@ -1,5 +1,5 @@
 # Zwtfy.py
-A boring script that convert files to string-like texts.  
+A boring script that converts files to string-like texts.  
 转换文件为Base 64编码再转换为二进制格式再转换为类字符串格式再保存(或逆操作)  
 # 应用
 明文低保密要求信息传输中的混淆  
